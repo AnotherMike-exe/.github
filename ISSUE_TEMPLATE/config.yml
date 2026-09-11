@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and help
+    url: https://github.com/AnotherMike-exe/.github/discussions
+    about: Ask usage and setup questions in Discussions, not issues.
+  - name: Report a security vulnerability
+    url: https://github.com/AnotherMike-exe/.github/blob/main/SECURITY.md
+    about: Report privately through the Security tab. Never in a public issue.
